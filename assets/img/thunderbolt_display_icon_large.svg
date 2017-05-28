@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="67" height="56" viewBox="0 0 67 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>Vector Smart Object5</title>
+  <rect id="_Path_" data-name="&lt;Path&gt;" class="cls-1" x="2" y="7.25" width="63" height="38.5"/>
+  <g id="_Group_" data-name="&lt;Group&gt;">
+    <path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" class="cls-2" d="M25.979,30.164l0.329-1.017a3.856,3.856,0,0,0,2.034.538,2.15,2.15,0,0,0,2.273-2.079c0-1.5-.912-2.228-2.767-2.228a9.449,9.449,0,0,0-1.3.089l0.628-4.622h4.561v1.077H28.1l-0.359,2.483a6.431,6.431,0,0,1,.748-0.045c2.048,0,3.424,1.212,3.424,3.051a3.338,3.338,0,0,1-3.56,3.32A4.52,4.52,0,0,1,25.979,30.164Z"/>
+    <path id="_Compound_Path_2" data-name="&lt;Compound Path&gt;" class="cls-2" d="M34.037,20.487h1.287v4.861h0.045c0.284-.4.568-0.763,0.823-1.092l2.961-3.768h1.585l-3.56,4.292,3.844,5.788H39.5l-3.23-4.936-0.943,1.092v3.843H34.037V20.487Z"/>
+  </g>
+  <rect id="_Rectangle_" data-name="&lt;Rectangle&gt;" class="cls-1" x="18.25" y="47.25" width="30.5" height="1.5" rx="0.75" ry="0.75"/>
+</svg>

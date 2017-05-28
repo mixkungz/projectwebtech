@@ -1,0 +1,135 @@
+<div id="bas" class="row">
+  <div class="col-xs-12">
+    <h1>LENOVO <span id="fontsed">LEIGON Y520</span></h1>
+    <p>80WK0034TA</p>
+    <hr>
+  </div>
+  <div class = "col-xs-7">
+      <img class="slides" src="assets/img/Lenovo-Legion-Y520-Review-15.jpg" width="635" height="400">
+      <img class="slides" src="assets/img/Lenovo-Legion-Y520-Review-25.jpg" width="635" height="400">
+      <img class="slides" src="assets/img/Lenovo-Legion-Y520-Review-50.jpg" width="635" height="400">
+      <img class="slides" src="assets/img/Lenovo-Legion-Y520-Review-55.jpg" width="635" height="400">
+      <br>
+      <marquee scrollamount="15" onmouseover= "this.stop()" onmouseout="this.start()">
+      <img src="assets/img/Lenovo-Legion-Y520-Review-25.jpg" width = "120" height ="120">&nbsp&nbsp
+      <img src="assets/img/Lenovo-Legion-Y520-Review-41.jpg" width = "120" height ="120">&nbsp&nbsp
+      <img src="assets/img/Lenovo-Legion-Y520-Review-50.jpg" width = "120" height ="120">&nbsp&nbsp
+      <img src="assets/img/Lenovo-Legion-Y520-Review-55.jpg" width = "120" height ="120">&nbsp&nbsp
+      <img src="assets/img/Lenovo-Legion-Y520-Review-18.jpg" width = "120" height ="120">&nbsp&nbsp
+      <img src="assets/img/Lenovo-Legion-Y520-Review-20.jpg" width = "120" height ="120">&nbsp&nbsp
+      <img src="assets/img/Lenovo-Legion-Y520-Review-32.jpg" width = "120" height ="120">&nbsp&nbsp
+      <img src="assets/img/Lenovo-Legion-Y520-Review-38.jpg" width = "120" height ="120">&nbsp&nbsp
+      <img src="assets/img/Lenovo-Legion-Y520-Review-40.jpg" width = "120" height ="120">&nbsp&nbsp
+      <img src="assets/img/Lenovo-Legion-Y520-Review-63.jpg" width = "120" height ="120">
+    </marquee>
+  </div>
+  <div class = "col-xs-5">
+    <span id ="price">31,900 Bath</span>
+    <h1><u>Description</u></h1>
+    <h3>- Intel Core i7-7700HQ (2.80-3.80 GHz)</h3>
+    <h3>- Mobile Intel Express Chipset</h3>
+    <h3>- NVIDIA GeForce GTX 1050 (4GB GDDR5)</h3>
+    <h3>- 4 GB DDR4</h3>
+    <h3>- 1 TB 5400 RPM</h3>
+    <h3>- 15.6 inch (1920x1080) Full HD IPS</h3>
+    <h3>- HD Webcam</h3>
+    <h3>- 3-Cell Li-Po</h3>
+    <h3>- DOS Operating System</h3>
+  </div>
+  <div class="col-xs-12">
+    <hr><br><br>
+  </div>
+  <div class="col-xs-12">
+    <video width="1100" height="500" autoplay loop controls>
+        <source src="assets/img/Lenovo Legion Y520.mp4" type="video/mp4">
+    </video>
+    <br>
+    <br>
+  </div>
+  <div class="col-xs-6">
+    <h2>Processor</h2>
+    <h4>CPU : <span>Intel Core i7-7700HQ (2.80 GHz, 6 MB L3 Cache, up to 3.80 GHz)</span></h4>
+    <h4>Chipset : <span>Mobile Intel Express Chipset</span></h4>
+    <hr>
+    <h2>Graphic System</h2>
+    <h4>Graphic Card : <span>NVIDIA GeForce GTX 1050 (4GB GDDR5)</span></h4>
+    <hr>
+    <h2>Display</h2>
+    <h4>Size : <span>15.6 inch (1920x1080) Full HD IPS</span></h4>
+    <h4>Type : <span>Anti Glare – จอด้าน</span></h4>
+    <hr>
+    <h2>Main Memory</h2>
+    <h4>Memory : <span>4 GB DDR4</span></h4>
+    <hr>
+    <h2>Hard Disk Drive</h2>
+    <h4>Hard Disk : <span>1 TB 5400 RPM</span></h4>
+  </div>
+  <div class="col-xs-6">
+    <h2>Operating System</h2>
+    <h4>OS Bundle : <span>DOS Operating System</span></h4>
+    <hr>
+    <h2>Web Camera</h2>
+    <h4>Details : <span>HD Webcam</span></h4>
+    <hr>
+    <h2>Battery</h2>
+    <h4>Type : <span>3-Cell Li-Po</span></h4>
+    <hr>
+    <h2>Keyboard</h2>
+    <h4>Type : <span>Backlit , Numpad</span></h4>
+    <hr>
+    <h2>Body</h2>
+    <h4>Color : <span>Black</span></h4>
+    <h4>Weight : <span>2.40 kg</span></h4>
+    <h4>Material : <span>Plastic</span></h4>
+    <br><br><br>
+  </div>
+  <div class="col-xs-12">
+    <hr>
+  </div>
+  <div class="col-xs-8 text-center">
+    <h3>Supported<span id="fontsed">&nbsp&nbspBy</span></h3>
+    <br>
+  </div>
+  <div class="col-xs-4 text-center">
+    <h3>Contact<span id="fontsed">&nbsp&nbspUs</span></h3>
+    <br>
+  </div>
+  <div class="col-xs-2 text-center">
+    <img src="assets/img/Lenovo-Logo.png" width="120" heigth="80">
+  </div>
+  <div class="col-xs-2 text-center">
+    <img src="assets/img/dia_geforce_gtx.png" width="80" heigth="80">
+  </div>
+  <div class="col-xs-2 text-center">
+    <img src="assets/img/7th-Gen-Intel-Core-i7.png" width="80" heigth="80">
+  </div>
+  <div class="col-xs-2 text-center">
+    <img src="assets/img/icon-HD-SDI.png" width="80" heigth="80">
+  </div>
+  <div class="col-xs-4 text-center">
+    <h4>KMUTT: King Mongkut's University of Technology Thonburi</h4><br>
+    <h4>NextGen Group</h4>
+  </div>
+  <div class="col-xs-12">
+    <hr>
+  </div>
+  <div class="col-xs-12 text-center">
+    <p>&copy; Design by 59130500006 Kittisak Srathong.</p>
+  </div>
+  <script>
+    var index = 0;
+    slieShow();
+
+    function slieShow() {
+      var i;
+      var x = document.getElementsByClassName("slides");
+      for (i = 0; i < x.length; i++) {
+          x[i].style.display = "none";
+      }
+      index++;
+      if (index > x.length) {index = 1}
+        x[index-1].style.display = "block";
+        setTimeout(slieShow, 2000);
+    }
+  </script>
+</div>

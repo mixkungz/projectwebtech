@@ -1,0 +1,150 @@
+<div id="mix" class="row">
+  <div class="col-xs-12 text-center">
+    <h3 class="animated fadeInUp">MacBook Pro</h3>
+    <h1 class="animated fadeInUp">สัมผัสแห่งอัจฉริยะ</h1>
+    <div class="mbimg animated fadeInUp"></div>
+    <!-- <img src="assets/img/newmbpgrey.jpeg" class="animated fadeInUp img-responsive" alt=""> -->
+    <p class="animated fadeInUp">ทั้งเร็วและทรงพลังขึ้นกว่าที่เคย แต่บางและเบาลงอย่างน่าทึ่ง</p>
+    <p class="animated fadeInUp">ทั้งเป็นจอภาพโน้ตบุ๊ค Mac ที่สว่างและมีสีสันสดใสที่สุดเท่าที่เคยมีมา</p>
+    <p class="animated fadeInUp">และที่สำคัญมาพร้อม Touch Bar แถบกระจกที่สามารถใช้งาน Multi-Touch</p>
+    <p class="animated fadeInUp">ซึ่งได้รับการผสานรวมให้เป็นส่วนหนึ่งของคีย์บอร์ด เพื่อให้คุณใช้งาน</p>
+    <p class="animated fadeInUp">เครื่องมือที่ต้องการได้ในทุกเวลาที่ต้องการ ทั้งหมดนี้รวมอยู่ใน</p>
+    <p class="animated fadeInUp">MacBook Pro ใหม่ที่สร้างขึ้นบนแนวคิดสุดล้ำ และวันนี้</p>
+    <p class="animated fadeInUp">ก็พร้อมแล้วสำหรับแนวคิดที่ล้ำหน้าไม่แพ้กันของคุณ</p>
+  </div>
+  <div class="col-xs-12 col-md-offset-3 col-md-2 text-center splits animated fadeInUp">
+    <p>130<sup>%</sup></p>
+    <span>กราฟิกเร็วขึ้น<br>สูงสุด 130%</span>
+  </div>
+  <div class="col-xs-12 col-md-2 text-center splits animated fadeInUp">
+    <img src="assets/img/intro_display_icon_large.svg" alt=""><br>
+    <span>จอภาพ<br>สว่างขึ้น 67%</span>
+  </div>
+  <div class="col-xs-12 col-md-2 text-center splits animated fadeInUp">
+    <p>17<sup>%</sup></p>
+    <span>บางลง<br>สูงสุด 17%</span>
+  </div>
+  <div class="col-xs-12">
+    <video autoplay class="animated fadeInUp" id="myVideo">
+      <source src="assets/img/macbook.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="col-xs-offset-3 col-xs-3 size animated fadeInUp">
+    <span>รุ่น 13 นิ้ว</span>
+  </div>
+  <div class="col-xs-offset-2 col-xs-4 size animated fadeInUp">
+    <span>รุ่น 15 นิ้ว</span>
+  </div>
+  <div class="col-xs-offset-2 col-xs-4 size animated fadeInUp">
+    <p>1.37 กก. 14.9 มม.</p>
+  </div>
+  <div class="col-xs-offset-1 col-xs-5 size animated fadeInUp">
+    <p>1.83 กก. 15.5 มม.</p>
+  </div>
+  <div class="col-xs-12 text-center spec animated fadeInUp">
+    <p>ประสิทธิภาพ</p>
+    <span>สุดยอดเครื่องมือ<br>สำหรับทุกไฟในตัวคุณ</span>
+    <p>MacBook Pro ใหม่ได้ยกระดับโน้ตบุ๊คให้เหนือชั้นไปอีกขั้น<br>
+ทั้งในด้านความสะดวกสบายในการพกพาและขุมพลังความแรง<br>
+เพราะวันนี้ไม่ว่าคุณจะมีไอเดียมากมายขนาดไหน คุณก็สามารถ<br>
+ทำไอเดียเหล่านั้นให้กลายเป็นจริงได้เร็วยิ่งกว่าที่เคยด้วยกราฟิก<br>
+อันล้ำสมัย โปรเซสเซอร์ประสิทธิภาพสูง ตัวจัดเก็บข้อมูล<br>
+ที่เหนือชั้น และอีกมากมาย</p>
+  </div>
+  <div class="col-xs-offset-3 col-xs-2 performance animated fadeInUp">
+    <span>130<sup>%</sup></span>
+    <p>กราฟิกเร็วขึ้น<br>สูงสุด 130%</p>
+  </div>
+  <div class="col-xs-2 performance animated fadeInUp">
+    <img src="assets/img/performance_turbo_icon_large.svg" class="performance" alt="">
+    <p>ประมวลผลด้วย<br>Turbo Boost<br>สูงสุด 3.8GHz</p>
+  </div>
+  <div class="col-xs-2 performance animated fadeInUp">
+    <span>100<sup>%</sup></span>
+    <p>ตัวจัดเก็บข้อมูล<br>แบบแฟลชเร็วขึ้น<br>สูงสุด 100%</p>
+  </div>
+  <div class="col-xs-2 performance animated fadeInUp">
+    <img src="assets/img/performance_battery_icon_large.svg" style="margin-left:-2em" alt="">
+    <p>แบตเตอรี่ใช้งาน<br>ได้นานสูงสุด<br>10 ชั่วโมง</p>
+  </div>
+  <div class="col-xs-12 animated fadeInUp spec text-center">
+    <p>จอภาพ Retina</p>
+    <span>จอภาพโน้ตบุ๊ค Mac ที่สว่าง<br>และสดใสที่สุดเท่าที่เคยมีมา</span>
+    <p>MacBook Pro มาพร้อมจอภาพใหม่ที่ดีที่สุดเท่าที่เคยมีมาในโน้ตบุ๊ค Mac เลยทีเดียว<br>เพราะมีแผงแบ็คไลท์ LED ที่สว่างขึ้นและมีอัตราส่วนคอนทราสต์ที่สูงขึ้น ทำให้<br>สามารถแสดงสีดำได้ดำสนิทยิ่งขึ้น และแสดงสีขาวได้สว่างสดใสยิ่งกว่าเดิม<br>ส่วนรูรับแสงที่ใหญ่ขึ้นในแต่ละพิกเซลและอัตราการรีเฟรชแบบแปรผันก็ช่วยให้<br>จอภาพประหยัดพลังงานได้มากกว่ารุ่นก่อน นอกจากนี้ยังเป็นโน้ตบุ๊ค Mac รุ่นแรก<br>ที่รองรับขอบเขตสีแบบกว้างอีกด้วย จึงสามารถแสดงสีเขียวและสีแดงได้สวยสด<br>งดงามยิ่งขึ้น ทั้งหมดนี้ช่วยให้มั่นใจได้ว่าภาพที่เห็นจะสวยงามสมจริงยิ่งกว่าเดิม<br>และถ่ายทอดทุกรายละเอียดได้อย่างชัดเจน ซึ่งเป็นสิ่งที่สำคัญอย่างยิ่งสำหรับ<br>งานกราฟิกดีไซน์ ปรับสี และตัดต่อ</p>
+  </div>
+  <div class="col-xs-12 col-md-offset-3 col-md-2 text-center spec2 animated fadeInUp">
+    <img src="assets/img/intro_display_icon_large.svg" alt="">
+    <p>ความสว่าง<br>500 นิต</p>
+  </div>
+  <div class="col-xs-12 col-md-2 text-center animated spec2 fadeInUp">
+    <img src="assets/img/display_colors_icon_large.svg" alt="">
+    <p>แสดงสีสัน<br>ได้มากกว่า sRGB<br>ถึง 25%</p>
+
+  </div>
+  <div class="col-xs-12 col-md-2 text-center animated spec2 fadeInUp">
+    <img src="assets/img/display_contrast_icon_large.svg" alt="">
+    <p>อัตราส่วน<br>คอนทราสต์<br>สูงขึ้น 67%</p>
+  </div>
+  <div class="col-xs-12 display">
+    <img src="assets/img/display_large_2x.jpg" class="fullwid" alt="">
+  </div>
+  <div class="col-xs-offset-2 col-xs-4 display">
+    <p>วันนี้ MacBook Pro รองรับระบบสีแบบ P3<br>จึงแสดงสีสันได้มากกว่า RGB มาตรฐาน<br>ถึง 25% ซึ่งหมายความว่าจะทำให้เห็นสีเขียว<br>และสีแดงในเฉดต่างๆ มากยิ่งขึ้นนั่นเอง</p>
+  </div>
+  <div class="col-xs-6 display">
+    <img src="assets/img/display_graph_large_2x.jpg" style="width:50%" alt="">
+  </div>
+  <div class="col-xs-12 speaker text-center">
+    <span>ระบบเสียง</span>
+    <p>ดังชัดเต็มสองหูว่าดีกว่า</p>
+    <img src="assets/img/speakers_large_2x.jpg" class="fullwid" alt="">
+  </div>
+  <div class="col-xs-12 text-center">
+    <p class="speaker-text">ลำโพงได้รับการออกแบบขึ้นใหม่หมดเพื่อเพิ่มช่วงไดนามิกให้กว้างขึ้น 2 เท่า<br>และมีพลังเสียงสูงขึ้นถึง 58% พร้อมเสียงเบสที่ดังกระหึ่มเต็มพลังยิ่งกว่าเดิม<br>ถึง 2.5 เท่า อีกทั้งยังเชื่อมต่อโดยตรงกับอุปกรณ์จ่ายไฟของเครื่อง ซึ่งช่วยเพิ่ม<br>กำลังขับสูงสุดอีกถึง 3 เท่า ทั้งหมดนี้ทำให้ MacBook Pro เป็นตัวเลือกที่ใช่สำหรับ<br>การมิกซ์เพลงในทุกที่ทุกเวลา หรือจะตัดต่อวิดีโอทันทีที่ถ่ายเสร็จ<br>และสนุกกับภาพยนตร์ขณะเดินทางก็ได้เช่นกัน</p>
+  </div>
+  <div class="col-xs-12 col-md-offset-3 col-md-2 text-center spec2 animated fadeInUp moremargin">
+    <img src="assets/img/speakers_volume_icon_large.svg" alt="">
+    <p>พลังเสียงสูงขึ้น<br>สูงสุด 58%</p>
+  </div>
+  <div class="col-xs-12 col-md-2 text-center animated spec2 fadeInUp moremargin">
+    <img src="assets/img/speakers_bass_icon_large.svg" alt="">
+    <p>เสียงเบสดังขึ้น<br>สูงสุด 2.5 เท่า</p>
+
+  </div>
+  <div class="col-xs-12 col-md-2 text-center animated spec2 fadeInUp moremargin">
+    <img src="assets/img/speakers_dynamic_icon_large.svg" alt="">
+    <p>ช่วงไดนามิก<br>กว้างขึ้น 2 เท่า</p>
+  </div>
+  <div class="col-xs-12 spec text-center">
+    <p>Thunderbolt 3</p>
+    <span>พอร์ตที่ทั้งทรงพลัง<br>และอเนกประสงค์ที่สุด<br>เท่าที่เคยมีมา</span>
+    <p>Thunderbolt 3 ได้รวมแบนด์วิดท์ที่สูงเป็นพิเศษเข้ากับที่สุดแห่งความอเนกประสงค์<br>ของมาตรฐานอุตสาหกรรมพอร์ต USB-C เพื่อให้ได้มาซึ่งพอร์ตเดียวที่ตอบโจทย์<br>ทุกความต้องการ ไม่ว่าจะถ่ายโอนข้อมูล ชาร์จไฟ หรือส่งสัญญาณภาพ<br>ก็สามารถทำได้จากช่องต่อเพียงช่องเดียวด้วยแบนด์วิดท์ในการถ่ายโอนข้อมูล<br>สูงสุด 40 Gbps หรือสูงกว่า Thunderbolt 2 ถึงสองเท่า นอกจากนี้<br>MacBook Pro ทั้งสองขนาดยังมี Thunderbolt 3 มาให้ถึง 4 พอร์ต คุณจึง<br>ทำทุกอย่างที่ว่ามานี้จากด้านไหนของเครื่องก็ได้ หรือถ้าอยากใช้กับอุปกรณ์<br>ที่มีอยู่แล้วก็เชื่อมต่อได้เลยง่ายๆ ด้วยสายหรืออะแดปเตอร์ อีกอย่างคือ<br>ไม่ว่าหัวต่อสายจะหงายหรือคว่ำ ก็จะเป็นด้านที่ถูกและใช้งานได้กับ<br>พอร์ต Thunderbolt 3 เสมอ</p>
+  </div>
+  <div class="col-xs-offset-3 col-xs-2 performance animated fadeInUp thunderb-moremargin">
+    <img src="assets/img/thunderbolt_transfer_icon_large.svg" class="performance" alt="">
+    <p>ถ่ายโอนข้อมูล<br>สูงสุด 40 Gbps</p>
+  </div>
+  <div class="col-xs-2 performance animated fadeInUp thunderb-moremargin">
+    <img src="assets/img/thunderbolt_display_icon_large.svg" class="performance" alt="">
+    <p>รองรับจอภาพ 5K<br>สูงสุด 2 จอ</p>
+  </div>
+  <div class="col-xs-2 performance animated fadeInUp thunderb-moremargin">
+    <img src="assets/img/thunderbolt_charge_icon_large.svg" class="performance" alt="">
+    <p>ชาร์จและจ่ายไฟ<br>จากพอร์ตไหนก็ได้</p>
+  </div>
+  <div class="col-xs-2 performance animated fadeInUp thunderb-moremargin">
+    <img src="assets/img/thunderbolt_port_icon_large.svg" alt="">
+    <p>พอร์ต Thunderbolt 3<br>สูงสุด 4 พอร์ต</p>
+  </div>
+  <div class="col-xs-12 speaker">
+    <img src="assets/img/thunderbolt_large_2x.jpg" class="fullwid" alt="">
+  </div>
+  <div class="col-xs-offset-1 col-xs-4 display">
+    <p>สร้างเวิร์กสเตชั่นที่ทรงประสิทธิภาพ<br>ด้วยการเชื่อมต่อจอภาพ 5K สองจอ<br>และระบบ RAID สองระบบเข้ากับ<br>MacBook Pro รุ่น 15 นิ้ว ที่มีพอร์ต<br>Thunderbolt 3 จำนวน 4 พอร์ต<br>ได้ในเวลาเดียวกัน</p>
+  </div>
+  <div class="col-xs-6 display" style="margin-top:0.4em">
+    <img src="assets/img/thunderbolt_devices_large_2x.png" class="fullwid" alt="">
+  </div>
+
+
+</div>

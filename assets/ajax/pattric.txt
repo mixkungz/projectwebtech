@@ -1,0 +1,109 @@
+<div id="pattric" class="row">
+<div id="box1" class="">
+    <div class="row">
+      <div id="sec1" class="col-xs-11 col-xs-offset-1">
+        <img src="assets/img/Logo.png" class="logo animated fadeInUp" alt="">
+        <p>The alien is coming</p>
+      </div>
+    </div>
+</div>
+<div class="row">
+  <div id="sec2" class="col-xs-12">
+    <div class="col-xs-4 col-xs-offset-1">
+      <p>DON’T PUSH THE ENVELOPE. SHRED IT.</p>
+      <img id="imgfade1" src="assets/img/Alienware-Transparent-Background.png"  class="animated fadeInUp" alt="">
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div id="sec3" class="col-xs-12 banner">
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 text-Title">
+    <p>Configurations</p>
+  </div>
+</div>
+<div class="row">
+  <!--TABLE START-->
+  <table class="table">
+    <tr>
+      <td><img src="assets/img/LargePNG.png"  class="img-responsive"alt=""></td>
+      <td><img src="assets/img/LargePNG.png"  class="img-responsive"alt=""></td>
+      <td><img src="assets/img/LargePNG.png"  class="img-responsive"alt=""></td>
+    </tr>
+    <tr>
+      <td>ALIENWARE 13</td>
+      <td>ALIENWARE 15</td>
+      <td>ALIENWARE 17</td>
+    </tr>
+    <tr>
+      <td>$1,299.99</td>
+      <td>$2,349.99</td>
+      <td>$2,049.99</td>
+    </tr>
+    <tr>
+      <td>7th Generation Intel® Core™ i7-7700HQ</td>
+      <td>7th Generation Intel® Core™ i7-7700HQ</td>
+      <td>7th Generation Intel® Core™ i7-7700HQ</td>
+    </tr>
+    <tr>
+      <td>8GB DDR4 at 2400MHz</td>
+      <td>8GB DDR4 at 2400MHz</td>
+      <td>8GB DDR4 at 2400MHz</td>
+    </tr>
+    <tr>
+      <td>NVIDIA® GeForce® GTX 1060 with 6GB GDDR5</td>
+      <td>NVIDIA® GeForce® GTX 1070 with 8GB GDDR5</td>
+      <td>NVIDIA® GeForce® GTX 1080 with 8GB GDDR5X</td>
+    </tr>
+  </table>
+  <!--END TABLE-->
+</div>
+
+<div class="row">
+  <div id="sec4" class="col-xs-12">
+    <div class="row xs-pad-offset-15 ">
+    <!-- FeatureTextRightImageLeft Layout -->
+      <div class="text-right-image-left-container">
+        <div class="col-xs-12 col-sm-6 imageleftpadding centered">
+          <img src="http://i.dell.com/sites/imagecontent/products/PublishingImages/alienware-13-laptop/CS1703G0017_aw_laptop_alienware13_gaming_pdp_polaris_05.jpg" class="img-responsive" alt="A keyboard like no other." title="A keyboard like no other.">
+        </div>
+        <div class="col-xs-12 col-sm-6 textrightpadding">
+          <h2>A keyboard like no other.</h2>
+            <p>With an upgraded Alienware TactX keyboard, n-key rollover is now supported, enabling over 108-key commands for maximum actions per minute. It’s the only keyboard on a laptop with 2.2mm of key travel allowing for rapid response for any key stroke. Reinforced with a steel back plate for rigidity and uniform feedback with a guarantee to stay functional for up to 10 million keystrokes.<br><br>Created more personalized look for your machine with new and improved AlienFX. Designed with optimized RGB-LED enabled AlienFX lighting and now supported on over 130 games with the option to create and download unique themes.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <!-- Footer -->
+<div class="footer-bottom-section">
+<div class="menu-container">
+<div class="footer-shadow-section hidden-xs">
+  <div class="menu-links-container">
+      <div class="footer-top-links">
+          <ul class="menu-links list-inline mobile-lines">
+                      <li><a href="http://www.dell.com/learn/us/en/uscorp1/site-terms-of-use-copyright">© 2017 Dell</a></li>
+                      <li><a href="http://www.dell.com/learn/us/en/uscorp1/terms-of-sale">Terms of Sale</a></li>
+                      <li><a href="http://www.dell.com/learn/us/en/uscorp1/policies-privacy">Privacy Statement</a></li>
+                      <li><a href="http://www.dell.com/learn/us/en/uscorp1/policies-ads-and-emails">Ads &amp; Emails</a></li>
+                      <li><a href="http://www.dell.com/learn/us/en/uscorp1/terms">Legal &amp; Regulatory</a></li>
+                      <li><a href="http://www.dell.com/learn/us/en/uscorp1/cr">Corporate Social Responsibility</a></li>
+                      <li><a href="http://www.dell.com/support/contents/category/Contact-Information?c=us&amp;l=en">Contact</a></li>
+                      <li><a href="#" class="toolbar_feedback opinionlabhtml" style="display: inline;">Feedback</a></li>
+         </ul>
+      </div>
+    </div>
+  </div>
+  <div class="footer-legal">
+      <div class="contextual-legal">
+          "Ultrabook, Celeron, Celeron Inside, Core Inside, Intel, Intel Logo, Intel Atom, Intel Atom Inside, Intel Core, Intel Inside, Intel Inside Logo, Intel vPro, Itanium, Itanium Inside, Pentium, Pentium Inside, vPro Inside, Xeon, Xeon Phi, and Xeon Inside are trademarks of Intel Corporation in the U.S. and/or other countries.<br><br>Offers subject to change. Not valid for Resellers. Per customer unit limits on discounted or promotional items apply. Dell reserves the right to cancel orders arising from pricing or other errors.<br><br>*Rewards are issued to your online Dell Advantage Loyalty Rewards Account (available via your Dell.com My Account) typically within 30 business days after your order’s ship date; Rewards expire in 90 days (except where prohibited by law). “Current rewards balance” amount may not reflect the most recent transactions occurring within the past 30 business days. Up to 6% rewards only on Dell Preferred Account purchases. Up to 3% reward on all other purchases. Bose products only eligible for up to 3% rewards. Total rewards earned may not exceed $2,000 within a 3 month period. Outlet purchases do not qualify for rewards. Expedited Delivery not available on certain TVs, monitors, batteries and adapters, and is available in Continental (except Alaska) U.S. only. Other exceptions apply. Not valid for resellers and/or online auctions. See <a href="http://www.dell.com/rewardsfaq">Dell.com/rewardsfaq</a>.<br><br><span style="text-decoration: underline;">^DELL PREFERRED ACCOUNT (DPA):</span> Offered to U.S. residents by WebBank, who determines qualifications for and terms of credit. Taxes, shipping, and other charges are extra and vary. Dell and the Dell logo are trademarks of Dell Inc.<br><br>Dell <strong style="font-size: 11px; font-family: verdana; color: #000000;">Promotional eGift Cards</strong> arrive via email 10-20 days from ship date. Expires in 90 days (except where prohibited by law). <a href="http://www.dell.com/learn/us/en/19/campaigns/gift-card-opt-tc-sec1-us?c=us&amp;cs=19&amp;l=en&amp;s=dhs&amp;~lt=popup&amp;redirect=1">See dell.com/giftcard/promoterms.​​</a>
+      </div>
+  </div>
+</div>
+</div>
+</div>

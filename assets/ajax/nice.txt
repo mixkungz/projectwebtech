@@ -1,0 +1,77 @@
+<div id="nice" class="row">
+<header class="class1">
+  <h1>Microsoft <span style="color: blue;">Surface Pro 4</span></h1>
+  <h1 style="font-size:17px;">Official by Microsoft &reg;</h1>
+
+</header>
+<div class="bg">
+  <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#carousel-example-generic" data-slide-to="0" class="active" style="color:blue;"></li>
+      <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+      <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+      <div class="item active">
+
+        <img src="assets/img/blue.png" alt="light blue">
+        <div class="carousel-caption top caption">
+          <h3 class="text-right">Surface Pro 4</h3>
+          <h3 class="text-right">Type Cover</h3>
+          <h2 class="text-right">Type Cover รุ่นใหม่ที่รังสรรค์มาเพื่อ Surface Pro 4 <br>พร้อมมอบประสบการณ์การพิมพ์ที่ล้ำสมัยที่สุดสำหรับ <br>Surface Pro 4 Type Cover ให้สัมผัสและทำงาน <br>เหมือนคีย์บอร์ดแล็ปท็อปแบบดั้งเดิม</h2>
+        </div>
+      </div>
+      <div class="item">
+        <img src="assets/img/darkblue.png" alt="dark blue">
+        <div class="carousel-caption top caption">
+          <h3 class="text-right">Surface Pro 4</h3>
+          <h3 class="text-right">Type Cover</h3>
+          <h2 class="text-right">Type Cover รุ่นใหม่ที่รังสรรค์มาเพื่อ Surface Pro 4 <br>พร้อมมอบประสบการณ์การพิมพ์ที่ล้ำสมัยที่สุดสำหรับ <br>Surface Pro 4 Type Cover ให้สัมผัสและทำงาน <br>เหมือนคีย์บอร์ดแล็ปท็อปแบบดั้งเดิม</h2>
+        </div>
+      </div>
+      <div class="item">
+        <img src="assets/img/black.png" alt="black">
+        <div class="carousel-caption top caption">
+          <h3 class="text-right">Surface Pro 4</h3>
+          <h3 class="text-right">Type Cover</h3>
+          <h2 class="text-right">Type Cover รุ่นใหม่ที่รังสรรค์มาเพื่อ Surface Pro 4 <br>พร้อมมอบประสบการณ์การพิมพ์ที่ล้ำสมัยที่สุดสำหรับ <br>Surface Pro 4 Type Cover ให้สัมผัสและทำงาน <br>เหมือนคีย์บอร์ดแล็ปท็อปแบบดั้งเดิม</h2>
+        </div>
+      </div>
+    </div>
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+
+  </div> </div><br> <br><br>
+  <img src="assets/img/SurfacePro4_Home_3_Hero_V1.jpg" style="width:100%" width="1349" >
+  <br><br>
+                          <div class="">
+                            <span class="content1">สารพัดประโยชน์และบางเป็นพิเศษ</span> <br> <br>
+                            <span class="content2" >Surface Pro 4 สร้างสรรค์มาอย่างพิถีพิถันเพื่อเป็นแล็ปท็อปบางเป็นพิเศษที่ทรงประสิทธิภาพ
+                              — หรือแท็บเล็ตสวยที่มีความสามารถครบเครื่อง
+                              — รวมถึงการเล่นวิดีโอ 9 ชั่วโมง</span>
+                              <div class="row"  >
+                                <div class="col-xs-9">
+                                  <table class="table detail1">
+                                    <tr class="">
+                                      <td style="font-size: 50px;">12.3 นิ้ว<br><h6>จอแสดงผล PixelSense™</h6></td>
+                                      <td>สูงสุด<span style="font-size: 50px;">1</span> TB <br><h6>ฮาร์ดไดรฟ์ SSD</h6></td>
+                                      <td>สูงสุด<span style="font-size: 50px;">16</span> GB <br><h6>DDR3 RAM</h6></td>
+                                    </tr>
+                                    <tr>
+                                      <td></td>
+                                      <td></td>
+                                      <td></td>
+                                    </tr>
+                                  </table></div></div> </div>
+                                  </div>

@@ -1,0 +1,24 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="50" height="56" viewBox="0 0 50 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #231f20;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.838px;
+      }
+    </style>
+  </defs>
+  <title>Vector Smart Object21</title>
+  <g>
+    <path id="_Path_" data-name="&lt;Path&gt;" class="cls-1" d="M11.277,20.013L4,20.021a2,2,0,0,0-2,2V33a2,2,0,0,0,2,2h7.276a2,2,0,0,1,1.28.464l9.8,8.17A1,1,0,0,0,24,42.865V12.137a1,1,0,0,0-1.641-.768l-9.8,8.18A2,2,0,0,1,11.277,20.013Z"/>
+    <path id="_Path_2" data-name="&lt;Path&gt;" class="cls-2" d="M39.705,12.992a20.587,20.587,0,0,1,0,29.115"/>
+    <path id="_Path_3" data-name="&lt;Path&gt;" class="cls-2" d="M35.412,16.823a15.169,15.169,0,0,1,0,21.453"/>
+    <path id="_Path_4" data-name="&lt;Path&gt;" class="cls-2" d="M31.277,21.42a8.668,8.668,0,0,1,0,12.259"/>
+  </g>
+</svg>

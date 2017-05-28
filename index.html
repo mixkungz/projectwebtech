@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Spec Fresh</title>
+    <link href="https://fonts.googleapis.com/css?family=Amaranth" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Kanit:100,200,300,400,500,600,700" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/style.min.css">
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div id="code">
+        <p class="text-center">Free Coupon 100% Off : GetAWebTech</p>
+      </div>
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-6" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="#" class="navbar-brand">SpecFresh</a>
+        </div>
+        <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-6" aria-expanded="false" style="height: 1px;">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="" data-toggle="modal" data-target=".shop"><a href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i><span id="shopnum" class="shopnum label label-success ">1</span></a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <section id="slide">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <h2 class="text-center">แบรนด์ที่จัดจำหน่าย</h2>
+          </div>
+        </div>
+        <div class="owl-carousel owl-theme owl-responsive">
+          <div class="item center-block"><img class="img-responsive apple" src="assets/img/logoapple.png" alt=""></div>
+          <div class="item center-block"><img class="img-responsive c-img" src="assets/img/logolenovo.png" alt=""></div>
+          <div class="item center-block"><img class="img-responsive c-img hp" src="assets/img/HP_logo_2012.png" alt=""></div>
+          <div class="item center-block"><img class="img-responsive c-img" src="assets/img/logoalien.png" alt=""></div>
+          <div class="item center-block"><img class="img-responsive c-img" src="assets/img/logomicrosoft.png" alt=""></div>
+        </div>
+      </div>
+    </section>
+    <section id="product">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <h2>สินค้าทั้งหมด</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+              <img id="mbp" src="assets/img/newmbpgrey.jpeg" alt="...">
+              <div class="caption">
+                <div class="text-center">
+                  <div id="mbpgreyid" class="mbpgrey mbpactive" onclick="changeimg('mbpgr'); "></div>
+                  <div id="mbpsilverid" class="mbpsilver" onclick="changeimg('mbpsilv')"></div>
+                </div>
+
+                <h3>MacBook Pro รุ่น 13 นิ้ว <span>ใหม่</span></h3>
+                <h3 class="spec">โปรเซสเซอร์ 2.0GHz</h3>
+                <h3 class="spec">ความจุ 256 GB</h3>
+                <h3 class="light price">฿56,900.00</h3>
+                <button type="button" onclick="refreshmodal();getAjax('macbook')" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target=".bs-example-modal-lg">ดูรายละเอียด</button>
+                <button type="button" onclick="buy('macbook')" class="btn btn-success btn-lg btn-block">สั่งซื้อสินค้า</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+              <img id="mbp" src="assets/img/hpspec.png" alt="...">
+              <div class="caption">
+                <h3>HP Spectre</h3>
+                <h3 class="spec">Intel® Core™ i7 processor</h3>
+                <h3 class="spec">256 GB SSD storage</h3>
+                <h3 class="light price">฿43,900.00</h3>
+                <button type="button" onclick="refreshmodal();getAjax('spectre')" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target=".bs-example-modal-lg">ดูรายละเอียด</button>
+                <button type="button" onclick="buy('spectre')" class="btn btn-success btn-lg btn-block">สั่งซื้อสินค้า</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+              <img id="mbp" src="assets/img/Lenovo-Legion-Y520-Review-15.jpg" alt="...">
+              <div class="caption">
+
+                <h3>LENOVO LEIGON Y520</h3>
+                <h3 class="spec">Intel Core i7-7700HQ</h3>
+                <h3 class="spec">1 TB 5400 RPM</h3>
+                <h3 class="light price">฿31,900.00</h3>
+                <button type="button" onclick="refreshmodal();getAjax('lenovo')" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target=".bs-example-modal-lg">ดูรายละเอียด</button>
+                <button type="button" onclick="buy('lenovo')" class="btn btn-success btn-lg btn-block">สั่งซื้อสินค้า</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+              <img id="mbp" src="assets/img/alienware-laptop-category-premigration-day01_Module-1.jpg" alt="...">
+              <div class="caption">
+                <h3>ALIENWARE 17</h3>
+                <h3 class="spec">Intel® Core™ i7-7700HQ</h3>
+                <h3 class="spec">8GB DDR4 at 2400MHz</h3>
+                <h3 class="light price">฿69,720.00</h3>
+                <button type="button" onclick="refreshmodal();getAjax('alien')" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target=".bs-example-modal-lg">ดูรายละเอียด</button>
+                <button type="button" onclick="buy('alien')" class="btn btn-success btn-lg btn-block">สั่งซื้อสินค้า</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+              <img id="mbp" src="assets/img/blue.png" alt="...">
+              <div class="caption">
+
+                <h3>Surface Pro 4</span></h3>
+                <h3 class="spec">Intel Core M</h3>
+                <h3 class="spec">ความจุสูงสุด 1 TB</h3>
+                <h3 class="light price">฿30,900.00</h3>
+                <button type="button" onclick="refreshmodal();getAjax('surface')" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target=".bs-example-modal-lg">ดูรายละเอียด</button>
+                <button type="button" onclick="buy('surface')" class="btn btn-success btn-lg btn-block">สั่งซื้อสินค้า</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section>
+    <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+      <div class="modal-dialog modal-lg" role="document">
+        <div id="postajax" class="modal-content">
+          <video src="" autoplay id="myVideo"></video>
+          <!-- <p class="mySlides"></p> -->
+
+
+        </div>
+      </div>
+    </div>
+    <div class="modal fade shop" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title text-center" id="myModalLabel">รายการสินค้า</h4>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-xs-4"><img src="assets/img/macos_finder_icloud_large.png" class="img-thumbnail" alt=""></div>
+              <div class="col-xs-5 text-center">
+                <h3>Macbook Pro</h3>
+              </div>
+              <div class="col-xs-3 text-center">
+                <h3 id="mbpamout">0</h3>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-4"><img src="assets/img/hpspec.png" class="img-thumbnail" alt=""></div>
+              <div class="col-xs-5 text-center">
+                <h3>HP Spectre</h3>
+              </div>
+              <div class="col-xs-3 text-center">
+                <h3 id="hpamout">0</h3>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-4"><img src="assets/img/Lenovo-Legion-Y520-Review-15.jpg" class="img-thumbnail" alt=""></div>
+              <div class="col-xs-5 text-center">
+                <h3>Lenovo Leigon Y520</h3>
+              </div>
+              <div class="col-xs-3 text-center">
+                <h3 id="lenovoamout">0</h3>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-4"><img src="assets/img/alienware-laptop-category-premigration-day01_Module-1.jpg" class="img-thumbnail" alt=""></div>
+              <div class="col-xs-5 text-center">
+                <h3>ALIENWARE 17</h3>
+              </div>
+              <div class="col-xs-3 text-center">
+                <h3 id="alienamout">0</h3>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-4"><img src="assets/img/blue.png" class="img-thumbnail" alt=""></div>
+              <div class="col-xs-5 text-center">
+                <h3>Surface Pro 4</h3>
+              </div>
+              <div class="col-xs-3 text-center">
+                <h3 id="surfaceamout">0</h3>
+              </div>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <p>มีโค้ดส่วนลด</p>
+            <input id="codeinput" type="text" name="" value=""><button onclick="check()">ยืนยันโค้ด</button>
+            <p id="codemsg" style="color:red">ไม่พบโค้ดส่วนลด</p>
+            <h3 id="allprice">ราคารวม : 0 บาท</h3>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script type="text/javascript">
+    var allprice=0;
+    var allprice2=0;
+    var mbpamout=0;
+    var hpamout=0;
+    var lenovoamout=0;
+    var alienamout=0;
+    var surfaceamout=0;
+    var shoplist = [];
+    $('#shopnum').html(shoplist.length);
+    function update(){
+      $('#shopnum').html(shoplist.length);
+      $('#mbpamout').html(mbpamout);
+      $('#hpamout').html(hpamout);
+      $('#lenovoamout').html(lenovoamout);
+      $('#alienamout').html(alienamout);
+      $('#surfaceamout').html(surfaceamout);
+      $('#allprice').html('ราคา : '+allprice+' บาท');
+    }
+    function refreshmodal(){
+      $('#postajax').html(" ");
+    }
+    function buy(product){
+      if(product == 'macbook'){
+        mbpamout++;
+        shoplist.push(product);
+      }
+      else if(product == 'spectre'){
+        shoplist.push(product);
+        hpamout++;
+      }
+      else if(product == 'lenovo'){
+        shoplist.push(product);
+        lenovoamout++;
+      }
+      else if(product == 'alien'){
+        shoplist.push(product);
+        alienamout++;
+      }
+      else if(product == 'surface'){
+        shoplist.push(product);
+        surfaceamout++;
+      }
+      allprice = (mbpamout*56900)+(hpamout*43900)+(lenovoamout*31900)+(alienamout*69720)+(surfaceamout*30900);
+      update();
+
+    }
+    function check(){
+      if($('#codeinput').val() == 'GetAWebTech'){
+        allprice2=allprice;
+        allprice=0;
+        update();
+        $('#codemsg').html('โค้ดถูกต้อง').css("color","green");
+      }
+      else{
+        update();
+      }
+    }
+
+      $(document).ready(function(){
+        $('.owl-carousel').owlCarousel({
+          loop:true,
+          margin:10,
+          items:2,
+          autoplay:true,
+          autoplayTimeout:2000,
+          autoplayHoverPause:true,
+          responsiveClass:true,
+          responsive:{
+              0:{
+                  items:1,
+              },
+              600:{
+                  items:2,
+              },
+              1000:{
+                  items:3,
+                  loop:true
+              }
+          }
+        })
+      });
+
+      function changeimg(text){
+        if(text == "mbpgr"){
+          $('#mbpsilverid').removeClass("mbpactive");
+          $('#mbpgreyid').addClass("mbpactive");
+          $('#mbp').attr("src","assets/img/newmbpgrey.jpeg");
+        }
+        else if(text == "mbpsilv"){
+          $('#mbpgreyid').removeClass("mbpactive");
+          $('#mbpsilverid').addClass("mbpactive");
+          $('#mbp').attr("src","assets/img/newmbpsilver.jpeg");
+        }
+      }
+      var vid = $('#myVideo');
+      vid.get(0).onpointerover = function() {
+          vid.get(0).play();
+      };
+      function getAjax(product){
+        if(product == 'macbook'){
+          $("#postajax").load("assets/ajax/mix.txt");
+        }
+        else if(product == 'spectre'){
+          $("#postajax").load("assets/ajax/kam.txt");
+        }
+        else if(product == 'lenovo'){
+          $("#postajax").load("assets/ajax/bas.txt");
+        }
+        else if(product == 'alien'){
+          $("#postajax").load("assets/ajax/pattric.txt");
+        }
+        else if(product == 'surface'){
+          $("#postajax").load("assets/ajax/nice.txt");
+        }
+      }
+
+    </script>
+  </body>
+</html>
